@@ -1,7 +1,6 @@
-import { Divider, Radio, Table } from 'antd';
+import { Divider, Table } from 'antd';
 import { columns } from './columns';
 import { mockData } from './utils/MOCK_DATA';
-import { useMediaQuery } from 'react-responsive';
 import { useState } from 'react';
 
 function App() {
